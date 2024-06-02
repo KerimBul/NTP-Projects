@@ -1,0 +1,9 @@
+C:\Users\Administrator\Downloads\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.exe.config
+C:\Users\Administrator\Downloads\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.exe
+C:\Users\Administrator\Downloads\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.pdb
+C:\Users\Administrator\Downloads\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.Form1.resources
+C:\Users\Administrator\Downloads\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.Properties.Resources.resources
+C:\Users\Administrator\Downloads\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.exe
+C:\Users\Administrator\Downloads\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.pdb

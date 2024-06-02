@@ -1,0 +1,9 @@
+G:\ \AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.exe.config
+G:\ \AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.exe
+G:\ \AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.pdb
+G:\ \AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.csprojResolveAssemblyReference.cache
+G:\ \AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.Form1.resources
+G:\ \AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.Properties.Resources.resources
+G:\ \AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.csproj.GenerateResource.Cache
+G:\ \AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.exe
+G:\ \AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.pdb

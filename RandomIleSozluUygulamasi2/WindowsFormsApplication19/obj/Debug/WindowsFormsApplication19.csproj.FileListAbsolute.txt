@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe.config
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.pdb
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.Form1.resources
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.exe
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.pdb
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\RandomIleSozluUygulamasi2\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe.config
+C:\Users\Administrator\Desktop\NTP\RandomIleSozluUygulamasi2\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.exe
+C:\Users\Administrator\Desktop\NTP\RandomIleSozluUygulamasi2\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.pdb

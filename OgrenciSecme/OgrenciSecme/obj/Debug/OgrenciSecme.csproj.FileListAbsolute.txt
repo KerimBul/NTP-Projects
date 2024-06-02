@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\NTP\OgrenciSecme\OgrenciSecme\bin\Debug\OgrenciSecme.exe.config
+C:\Users\Administrator\Desktop\NTP\OgrenciSecme\OgrenciSecme\obj\Debug\OgrenciSecme.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\OgrenciSecme\OgrenciSecme\obj\Debug\ogrenciRastgeleSec10_A_Bilisim.Form1.resources
+C:\Users\Administrator\Desktop\NTP\OgrenciSecme\OgrenciSecme\obj\Debug\OgrenciSecme.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\OgrenciSecme\OgrenciSecme\obj\Debug\OgrenciSecme.csproj.GenerateResource.Cache

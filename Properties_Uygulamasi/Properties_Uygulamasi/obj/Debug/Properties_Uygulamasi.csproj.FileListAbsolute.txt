@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\NTP\Properties_Uygulamasi\Properties_Uygulamasi\bin\Debug\Properties_Uygulamasi.exe.config
+C:\Users\Administrator\Desktop\NTP\Properties_Uygulamasi\Properties_Uygulamasi\bin\Debug\Properties_Uygulamasi.exe
+C:\Users\Administrator\Desktop\NTP\Properties_Uygulamasi\Properties_Uygulamasi\bin\Debug\Properties_Uygulamasi.pdb
+C:\Users\Administrator\Desktop\NTP\Properties_Uygulamasi\Properties_Uygulamasi\obj\Debug\Properties_Uygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\Properties_Uygulamasi\Properties_Uygulamasi\obj\Debug\Properties_Uygulamasi.exe
+C:\Users\Administrator\Desktop\NTP\Properties_Uygulamasi\Properties_Uygulamasi\obj\Debug\Properties_Uygulamasi.pdb

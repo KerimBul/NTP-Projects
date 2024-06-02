@@ -1,0 +1,15 @@
+C:\Users\evin7\Belgeler\Github\NTP-Class\DegerTip\DegerTip\bin\Debug\net8.0\DegerTip.exe
+C:\Users\evin7\Belgeler\Github\NTP-Class\DegerTip\DegerTip\bin\Debug\net8.0\DegerTip.deps.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\DegerTip\DegerTip\bin\Debug\net8.0\DegerTip.runtimeconfig.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\DegerTip\DegerTip\bin\Debug\net8.0\DegerTip.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\DegerTip\DegerTip\bin\Debug\net8.0\DegerTip.pdb
+C:\Users\evin7\Belgeler\Github\NTP-Class\DegerTip\DegerTip\obj\Debug\net8.0\DegerTip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evin7\Belgeler\Github\NTP-Class\DegerTip\DegerTip\obj\Debug\net8.0\DegerTip.AssemblyInfoInputs.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\DegerTip\DegerTip\obj\Debug\net8.0\DegerTip.AssemblyInfo.cs
+C:\Users\evin7\Belgeler\Github\NTP-Class\DegerTip\DegerTip\obj\Debug\net8.0\DegerTip.csproj.CoreCompileInputs.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\DegerTip\DegerTip\obj\Debug\net8.0\DegerTip.sourcelink.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\DegerTip\DegerTip\obj\Debug\net8.0\DegerTip.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\DegerTip\DegerTip\obj\Debug\net8.0\refint\DegerTip.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\DegerTip\DegerTip\obj\Debug\net8.0\DegerTip.pdb
+C:\Users\evin7\Belgeler\Github\NTP-Class\DegerTip\DegerTip\obj\Debug\net8.0\DegerTip.genruntimeconfig.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\DegerTip\DegerTip\obj\Debug\net8.0\ref\DegerTip.dll

@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\RandomSifreUygulamasi\RandomSifreUygulamasi\bin\Debug\RandomSifreUygulamasi.exe.config
+C:\Users\Administrator\Desktop\NTP\RandomSifreUygulamasi\RandomSifreUygulamasi\obj\Debug\RandomSifreUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\RandomSifreUygulamasi\RandomSifreUygulamasi\obj\Debug\RandomSifreUygulamasi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\RandomSifreUygulamasi\RandomSifreUygulamasi\obj\Debug\RandomSifreUygulamasi.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\RandomSifreUygulamasi\RandomSifreUygulamasi\obj\Debug\RandomSifreUygulamasi.Form1.resources
+C:\Users\Administrator\Desktop\NTP\RandomSifreUygulamasi\RandomSifreUygulamasi\bin\Debug\RandomSifreUygulamasi.exe
+C:\Users\Administrator\Desktop\NTP\RandomSifreUygulamasi\RandomSifreUygulamasi\bin\Debug\RandomSifreUygulamasi.pdb
+C:\Users\Administrator\Desktop\NTP\RandomSifreUygulamasi\RandomSifreUygulamasi\obj\Debug\RandomSifreUygulamasi.exe
+C:\Users\Administrator\Desktop\NTP\RandomSifreUygulamasi\RandomSifreUygulamasi\obj\Debug\RandomSifreUygulamasi.pdb

@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\NTP\MouseHover\MouseHover\bin\Debug\MouseHover.exe.config
+C:\Users\Administrator\Desktop\NTP\MouseHover\MouseHover\bin\Debug\MouseHover.exe
+C:\Users\Administrator\Desktop\NTP\MouseHover\MouseHover\bin\Debug\MouseHover.pdb
+C:\Users\Administrator\Desktop\NTP\MouseHover\MouseHover\obj\Debug\MouseHover.Form1.resources
+C:\Users\Administrator\Desktop\NTP\MouseHover\MouseHover\obj\Debug\MouseHover.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\MouseHover\MouseHover\obj\Debug\MouseHover.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\MouseHover\MouseHover\obj\Debug\MouseHover.exe
+C:\Users\Administrator\Desktop\NTP\MouseHover\MouseHover\obj\Debug\MouseHover.pdb

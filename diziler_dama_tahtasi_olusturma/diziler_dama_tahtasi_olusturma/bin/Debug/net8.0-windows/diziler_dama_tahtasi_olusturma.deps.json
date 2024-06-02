@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "diziler_dama_tahtasi_olusturma/1.0.0": {
+        "runtime": {
+          "diziler_dama_tahtasi_olusturma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "diziler_dama_tahtasi_olusturma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

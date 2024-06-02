@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_foreach\dizi_foreach\bin\Debug\dizi_foreach.exe.config
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_foreach\dizi_foreach\bin\Debug\dizi_foreach.exe
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_foreach\dizi_foreach\bin\Debug\dizi_foreach.pdb
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_foreach\dizi_foreach\obj\Debug\dizi_foreach.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_foreach\dizi_foreach\obj\Debug\dizi_foreach.Form1.resources
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_foreach\dizi_foreach\obj\Debug\dizi_foreach.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_foreach\dizi_foreach\obj\Debug\dizi_foreach.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_foreach\dizi_foreach\obj\Debug\dizi_foreach.exe
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_foreach\dizi_foreach\obj\Debug\dizi_foreach.pdb

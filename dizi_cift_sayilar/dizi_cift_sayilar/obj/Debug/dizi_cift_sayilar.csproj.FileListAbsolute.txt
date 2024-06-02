@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\dizi_cift_sayilar\dizi_cift_sayilar\bin\Debug\dizi_cift_sayilar.exe.config
+C:\Users\Administrator\Desktop\NTP\dizi_cift_sayilar\dizi_cift_sayilar\bin\Debug\dizi_cift_sayilar.exe
+C:\Users\Administrator\Desktop\NTP\dizi_cift_sayilar\dizi_cift_sayilar\bin\Debug\dizi_cift_sayilar.pdb
+C:\Users\Administrator\Desktop\NTP\dizi_cift_sayilar\dizi_cift_sayilar\obj\Debug\dizi_cift_sayilar.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\dizi_cift_sayilar\dizi_cift_sayilar\obj\Debug\dizi_cift_sayilar.Form1.resources
+C:\Users\Administrator\Desktop\NTP\dizi_cift_sayilar\dizi_cift_sayilar\obj\Debug\dizi_cift_sayilar.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\dizi_cift_sayilar\dizi_cift_sayilar\obj\Debug\dizi_cift_sayilar.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\dizi_cift_sayilar\dizi_cift_sayilar\obj\Debug\dizi_cift_sayilar.exe
+C:\Users\Administrator\Desktop\NTP\dizi_cift_sayilar\dizi_cift_sayilar\obj\Debug\dizi_cift_sayilar.pdb

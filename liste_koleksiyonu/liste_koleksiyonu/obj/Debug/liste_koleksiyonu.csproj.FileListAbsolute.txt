@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\ListKoleksiyonu\liste_koleksiyonu\liste_koleksiyonu\bin\Debug\liste_koleksiyonu.exe.config
+C:\Users\Administrator\Desktop\NTP\ListKoleksiyonu\liste_koleksiyonu\liste_koleksiyonu\bin\Debug\liste_koleksiyonu.exe
+C:\Users\Administrator\Desktop\NTP\ListKoleksiyonu\liste_koleksiyonu\liste_koleksiyonu\bin\Debug\liste_koleksiyonu.pdb
+C:\Users\Administrator\Desktop\NTP\ListKoleksiyonu\liste_koleksiyonu\liste_koleksiyonu\obj\Debug\liste_koleksiyonu.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\ListKoleksiyonu\liste_koleksiyonu\liste_koleksiyonu\obj\Debug\liste_koleksiyonu.Form1.resources
+C:\Users\Administrator\Desktop\NTP\ListKoleksiyonu\liste_koleksiyonu\liste_koleksiyonu\obj\Debug\liste_koleksiyonu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\ListKoleksiyonu\liste_koleksiyonu\liste_koleksiyonu\obj\Debug\liste_koleksiyonu.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\ListKoleksiyonu\liste_koleksiyonu\liste_koleksiyonu\obj\Debug\liste_koleksiyonu.exe
+C:\Users\Administrator\Desktop\NTP\ListKoleksiyonu\liste_koleksiyonu\liste_koleksiyonu\obj\Debug\liste_koleksiyonu.pdb

@@ -1,0 +1,17 @@
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_dama_tahtasi_olusturma\diziler_dama_tahtasi_olusturma\bin\Debug\net8.0-windows\diziler_dama_tahtasi_olusturma.exe
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_dama_tahtasi_olusturma\diziler_dama_tahtasi_olusturma\bin\Debug\net8.0-windows\diziler_dama_tahtasi_olusturma.deps.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_dama_tahtasi_olusturma\diziler_dama_tahtasi_olusturma\bin\Debug\net8.0-windows\diziler_dama_tahtasi_olusturma.runtimeconfig.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_dama_tahtasi_olusturma\diziler_dama_tahtasi_olusturma\bin\Debug\net8.0-windows\diziler_dama_tahtasi_olusturma.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_dama_tahtasi_olusturma\diziler_dama_tahtasi_olusturma\bin\Debug\net8.0-windows\diziler_dama_tahtasi_olusturma.pdb
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_dama_tahtasi_olusturma\diziler_dama_tahtasi_olusturma\obj\Debug\net8.0-windows\diziler_dama_tahtasi_olusturma.Form1.resources
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_dama_tahtasi_olusturma\diziler_dama_tahtasi_olusturma\obj\Debug\net8.0-windows\diziler_dama_tahtasi_olusturma.csproj.GenerateResource.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_dama_tahtasi_olusturma\diziler_dama_tahtasi_olusturma\obj\Debug\net8.0-windows\diziler_dama_tahtasi_olusturma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_dama_tahtasi_olusturma\diziler_dama_tahtasi_olusturma\obj\Debug\net8.0-windows\diziler_dama_tahtasi_olusturma.AssemblyInfoInputs.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_dama_tahtasi_olusturma\diziler_dama_tahtasi_olusturma\obj\Debug\net8.0-windows\diziler_dama_tahtasi_olusturma.AssemblyInfo.cs
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_dama_tahtasi_olusturma\diziler_dama_tahtasi_olusturma\obj\Debug\net8.0-windows\diziler_dama_tahtasi_olusturma.csproj.CoreCompileInputs.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_dama_tahtasi_olusturma\diziler_dama_tahtasi_olusturma\obj\Debug\net8.0-windows\diziler_dama_tahtasi_olusturma.sourcelink.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_dama_tahtasi_olusturma\diziler_dama_tahtasi_olusturma\obj\Debug\net8.0-windows\diziler_dama_tahtasi_olusturma.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_dama_tahtasi_olusturma\diziler_dama_tahtasi_olusturma\obj\Debug\net8.0-windows\refint\diziler_dama_tahtasi_olusturma.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_dama_tahtasi_olusturma\diziler_dama_tahtasi_olusturma\obj\Debug\net8.0-windows\diziler_dama_tahtasi_olusturma.pdb
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_dama_tahtasi_olusturma\diziler_dama_tahtasi_olusturma\obj\Debug\net8.0-windows\diziler_dama_tahtasi_olusturma.genruntimeconfig.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_dama_tahtasi_olusturma\diziler_dama_tahtasi_olusturma\obj\Debug\net8.0-windows\ref\diziler_dama_tahtasi_olusturma.dll

@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Proje11\AJANDA\AJANDA\bin\Debug\AJANDA.exe.config
+C:\Users\PC\Desktop\Proje11\AJANDA\AJANDA\bin\Debug\AJANDA.exe
+C:\Users\PC\Desktop\Proje11\AJANDA\AJANDA\bin\Debug\AJANDA.pdb
+C:\Users\PC\Desktop\Proje11\AJANDA\AJANDA\obj\Debug\AJANDA.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Proje11\AJANDA\AJANDA\obj\Debug\AJANDA.Form1.resources
+C:\Users\PC\Desktop\Proje11\AJANDA\AJANDA\obj\Debug\AJANDA.Properties.Resources.resources
+C:\Users\PC\Desktop\Proje11\AJANDA\AJANDA\obj\Debug\AJANDA.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Proje11\AJANDA\AJANDA\obj\Debug\AJANDA.exe
+C:\Users\PC\Desktop\Proje11\AJANDA\AJANDA\obj\Debug\AJANDA.pdb

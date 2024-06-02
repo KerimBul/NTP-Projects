@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\DictionaryUygulama\DictionaryUygulama\bin\Debug\DictionaryUygulama.exe.config
+C:\Users\Administrator\Desktop\NTP\DictionaryUygulama\DictionaryUygulama\bin\Debug\DictionaryUygulama.exe
+C:\Users\Administrator\Desktop\NTP\DictionaryUygulama\DictionaryUygulama\bin\Debug\DictionaryUygulama.pdb
+C:\Users\Administrator\Desktop\NTP\DictionaryUygulama\DictionaryUygulama\obj\Debug\DictionaryUygulama.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\DictionaryUygulama\DictionaryUygulama\obj\Debug\DictionaryUygulama.Form1.resources
+C:\Users\Administrator\Desktop\NTP\DictionaryUygulama\DictionaryUygulama\obj\Debug\DictionaryUygulama.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\DictionaryUygulama\DictionaryUygulama\obj\Debug\DictionaryUygulama.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\DictionaryUygulama\DictionaryUygulama\obj\Debug\DictionaryUygulama.exe
+C:\Users\Administrator\Desktop\NTP\DictionaryUygulama\DictionaryUygulama\obj\Debug\DictionaryUygulama.pdb

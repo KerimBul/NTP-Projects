@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\28Subat\Diziler_MaasUygulamasi\Diziler_MaasUygulamasi\bin\Debug\Diziler_MaasUygulamasi.exe.config
+C:\Users\Administrator\Desktop\NTP\28Subat\Diziler_MaasUygulamasi\Diziler_MaasUygulamasi\bin\Debug\Diziler_MaasUygulamasi.exe
+C:\Users\Administrator\Desktop\NTP\28Subat\Diziler_MaasUygulamasi\Diziler_MaasUygulamasi\bin\Debug\Diziler_MaasUygulamasi.pdb
+C:\Users\Administrator\Desktop\NTP\28Subat\Diziler_MaasUygulamasi\Diziler_MaasUygulamasi\obj\Debug\Diziler_MaasUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\28Subat\Diziler_MaasUygulamasi\Diziler_MaasUygulamasi\obj\Debug\Diziler_MaasUygulamasi.Form1.resources
+C:\Users\Administrator\Desktop\NTP\28Subat\Diziler_MaasUygulamasi\Diziler_MaasUygulamasi\obj\Debug\Diziler_MaasUygulamasi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\28Subat\Diziler_MaasUygulamasi\Diziler_MaasUygulamasi\obj\Debug\Diziler_MaasUygulamasi.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\28Subat\Diziler_MaasUygulamasi\Diziler_MaasUygulamasi\obj\Debug\Diziler_MaasUygulamasi.exe
+C:\Users\Administrator\Desktop\NTP\28Subat\Diziler_MaasUygulamasi\Diziler_MaasUygulamasi\obj\Debug\Diziler_MaasUygulamasi.pdb

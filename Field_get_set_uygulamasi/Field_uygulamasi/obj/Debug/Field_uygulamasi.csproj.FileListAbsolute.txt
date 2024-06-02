@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\NTP\Field_uygulamasi\Field_uygulamasi\bin\Debug\Field_uygulamasi.exe.config
+C:\Users\Administrator\Desktop\NTP\Field_uygulamasi\Field_uygulamasi\bin\Debug\Field_uygulamasi.exe
+C:\Users\Administrator\Desktop\NTP\Field_uygulamasi\Field_uygulamasi\bin\Debug\Field_uygulamasi.pdb
+C:\Users\Administrator\Desktop\NTP\Field_uygulamasi\Field_uygulamasi\obj\Debug\Field_uygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\Field_uygulamasi\Field_uygulamasi\obj\Debug\Field_uygulamasi.exe
+C:\Users\Administrator\Desktop\NTP\Field_uygulamasi\Field_uygulamasi\obj\Debug\Field_uygulamasi.pdb
+C:\Users\Administrator\Desktop\NTP\Field_get_set_uygulamasi\Field_uygulamasi\bin\Debug\Field_uygulamasi.exe.config
+C:\Users\Administrator\Desktop\NTP\Field_get_set_uygulamasi\Field_uygulamasi\obj\Debug\Field_uygulamasi.exe
+C:\Users\Administrator\Desktop\NTP\Field_get_set_uygulamasi\Field_uygulamasi\obj\Debug\Field_uygulamasi.pdb
+C:\Users\Administrator\Desktop\NTP\Field_get_set_uygulamasi\Field_uygulamasi\bin\Debug\Field_uygulamasi.exe
+C:\Users\Administrator\Desktop\NTP\Field_get_set_uygulamasi\Field_uygulamasi\bin\Debug\Field_uygulamasi.pdb
+C:\Users\Administrator\Desktop\NTP\Field_get_set_uygulamasi\Field_uygulamasi\obj\Debug\Field_uygulamasi.csprojResolveAssemblyReference.cache

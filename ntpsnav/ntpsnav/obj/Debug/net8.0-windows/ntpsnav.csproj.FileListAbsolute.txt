@@ -1,0 +1,17 @@
+C:\Users\evin7\Belgeler\Github\NTP-Class\ntpsnav\ntpsnav\bin\Debug\net8.0-windows\ntpsnav.exe
+C:\Users\evin7\Belgeler\Github\NTP-Class\ntpsnav\ntpsnav\bin\Debug\net8.0-windows\ntpsnav.deps.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\ntpsnav\ntpsnav\bin\Debug\net8.0-windows\ntpsnav.runtimeconfig.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\ntpsnav\ntpsnav\bin\Debug\net8.0-windows\ntpsnav.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\ntpsnav\ntpsnav\bin\Debug\net8.0-windows\ntpsnav.pdb
+C:\Users\evin7\Belgeler\Github\NTP-Class\ntpsnav\ntpsnav\obj\Debug\net8.0-windows\ntpsnav.Form1.resources
+C:\Users\evin7\Belgeler\Github\NTP-Class\ntpsnav\ntpsnav\obj\Debug\net8.0-windows\ntpsnav.csproj.GenerateResource.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\ntpsnav\ntpsnav\obj\Debug\net8.0-windows\ntpsnav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evin7\Belgeler\Github\NTP-Class\ntpsnav\ntpsnav\obj\Debug\net8.0-windows\ntpsnav.AssemblyInfoInputs.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\ntpsnav\ntpsnav\obj\Debug\net8.0-windows\ntpsnav.AssemblyInfo.cs
+C:\Users\evin7\Belgeler\Github\NTP-Class\ntpsnav\ntpsnav\obj\Debug\net8.0-windows\ntpsnav.csproj.CoreCompileInputs.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\ntpsnav\ntpsnav\obj\Debug\net8.0-windows\ntpsnav.sourcelink.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\ntpsnav\ntpsnav\obj\Debug\net8.0-windows\ntpsnav.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\ntpsnav\ntpsnav\obj\Debug\net8.0-windows\refint\ntpsnav.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\ntpsnav\ntpsnav\obj\Debug\net8.0-windows\ntpsnav.pdb
+C:\Users\evin7\Belgeler\Github\NTP-Class\ntpsnav\ntpsnav\obj\Debug\net8.0-windows\ntpsnav.genruntimeconfig.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\ntpsnav\ntpsnav\obj\Debug\net8.0-windows\ref\ntpsnav.dll

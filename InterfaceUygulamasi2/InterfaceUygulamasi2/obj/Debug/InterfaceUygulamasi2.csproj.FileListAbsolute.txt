@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\NTP\Bugun\InterfaceUygulamasi2\InterfaceUygulamasi2\bin\Debug\InterfaceUygulamasi2.exe.config
+C:\Users\Administrator\Desktop\NTP\Bugun\InterfaceUygulamasi2\InterfaceUygulamasi2\bin\Debug\InterfaceUygulamasi2.exe
+C:\Users\Administrator\Desktop\NTP\Bugun\InterfaceUygulamasi2\InterfaceUygulamasi2\bin\Debug\InterfaceUygulamasi2.pdb
+C:\Users\Administrator\Desktop\NTP\Bugun\InterfaceUygulamasi2\InterfaceUygulamasi2\obj\Debug\InterfaceUygulamasi2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\Bugun\InterfaceUygulamasi2\InterfaceUygulamasi2\obj\Debug\InterfaceUygulamasi2.exe
+C:\Users\Administrator\Desktop\NTP\Bugun\InterfaceUygulamasi2\InterfaceUygulamasi2\obj\Debug\InterfaceUygulamasi2.pdb

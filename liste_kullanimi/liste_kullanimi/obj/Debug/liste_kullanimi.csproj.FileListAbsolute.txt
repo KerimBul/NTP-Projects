@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\NTP\ListKoleksiyonu\liste_kullanimi\liste_kullanimi\bin\Debug\liste_kullanimi.exe.config
+C:\Users\Administrator\Desktop\NTP\ListKoleksiyonu\liste_kullanimi\liste_kullanimi\bin\Debug\liste_kullanimi.exe
+C:\Users\Administrator\Desktop\NTP\ListKoleksiyonu\liste_kullanimi\liste_kullanimi\bin\Debug\liste_kullanimi.pdb
+C:\Users\Administrator\Desktop\NTP\ListKoleksiyonu\liste_kullanimi\liste_kullanimi\obj\Debug\liste_kullanimi.Form1.resources
+C:\Users\Administrator\Desktop\NTP\ListKoleksiyonu\liste_kullanimi\liste_kullanimi\obj\Debug\liste_kullanimi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\ListKoleksiyonu\liste_kullanimi\liste_kullanimi\obj\Debug\liste_kullanimi.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\ListKoleksiyonu\liste_kullanimi\liste_kullanimi\obj\Debug\liste_kullanimi.exe
+C:\Users\Administrator\Desktop\NTP\ListKoleksiyonu\liste_kullanimi\liste_kullanimi\obj\Debug\liste_kullanimi.pdb

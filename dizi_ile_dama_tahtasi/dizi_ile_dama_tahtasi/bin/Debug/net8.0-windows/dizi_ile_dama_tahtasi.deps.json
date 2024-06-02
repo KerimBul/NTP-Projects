@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dizi_ile_dama_tahtasi/1.0.0": {
+        "runtime": {
+          "dizi_ile_dama_tahtasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dizi_ile_dama_tahtasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

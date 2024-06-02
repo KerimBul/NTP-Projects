@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\lambakontrol\lambakontrol\bin\Debug\lambakontrol.exe.config
+C:\Users\Administrator\Desktop\NTP\lambakontrol\lambakontrol\bin\Debug\lambakontrol.exe
+C:\Users\Administrator\Desktop\NTP\lambakontrol\lambakontrol\bin\Debug\lambakontrol.pdb
+C:\Users\Administrator\Desktop\NTP\lambakontrol\lambakontrol\obj\Debug\lambakontrol.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\lambakontrol\lambakontrol\obj\Debug\lambakontrol.Form1.resources
+C:\Users\Administrator\Desktop\NTP\lambakontrol\lambakontrol\obj\Debug\lambakontrol.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\lambakontrol\lambakontrol\obj\Debug\lambakontrol.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\lambakontrol\lambakontrol\obj\Debug\lambakontrol.exe
+C:\Users\Administrator\Desktop\NTP\lambakontrol\lambakontrol\obj\Debug\lambakontrol.pdb

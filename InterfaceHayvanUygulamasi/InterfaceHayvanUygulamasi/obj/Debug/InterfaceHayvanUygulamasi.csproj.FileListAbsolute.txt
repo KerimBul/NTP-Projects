@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\NTP\Bugun\InterfaceHayvanUygulamasi\InterfaceHayvanUygulamasi\bin\Debug\InterfaceHayvanUygulamasi.exe.config
+C:\Users\Administrator\Desktop\NTP\Bugun\InterfaceHayvanUygulamasi\InterfaceHayvanUygulamasi\bin\Debug\InterfaceHayvanUygulamasi.exe
+C:\Users\Administrator\Desktop\NTP\Bugun\InterfaceHayvanUygulamasi\InterfaceHayvanUygulamasi\bin\Debug\InterfaceHayvanUygulamasi.pdb
+C:\Users\Administrator\Desktop\NTP\Bugun\InterfaceHayvanUygulamasi\InterfaceHayvanUygulamasi\obj\Debug\InterfaceHayvanUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\Bugun\InterfaceHayvanUygulamasi\InterfaceHayvanUygulamasi\obj\Debug\InterfaceHayvanUygulamasi.exe
+C:\Users\Administrator\Desktop\NTP\Bugun\InterfaceHayvanUygulamasi\InterfaceHayvanUygulamasi\obj\Debug\InterfaceHayvanUygulamasi.pdb

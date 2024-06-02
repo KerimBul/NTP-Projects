@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "diziler_sesli_harf_sayisi_uygulamasi/1.0.0": {
+        "runtime": {
+          "diziler_sesli_harf_sayisi_uygulamasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "diziler_sesli_harf_sayisi_uygulamasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

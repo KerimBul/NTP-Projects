@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\NTP\FormUygulamasi\FormUygulamasi\bin\Debug\FormUygulamasi.exe.config
+C:\Users\Administrator\Desktop\NTP\FormUygulamasi\FormUygulamasi\bin\Debug\FormUygulamasi.exe
+C:\Users\Administrator\Desktop\NTP\FormUygulamasi\FormUygulamasi\bin\Debug\FormUygulamasi.pdb
+C:\Users\Administrator\Desktop\NTP\FormUygulamasi\FormUygulamasi\obj\Debug\FormUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\FormUygulamasi\FormUygulamasi\obj\Debug\FormUygulamasi.Erkek.resources
+C:\Users\Administrator\Desktop\NTP\FormUygulamasi\FormUygulamasi\obj\Debug\FormUygulamasi.Form1.resources
+C:\Users\Administrator\Desktop\NTP\FormUygulamasi\FormUygulamasi\obj\Debug\FormUygulamasi.Kadın.resources
+C:\Users\Administrator\Desktop\NTP\FormUygulamasi\FormUygulamasi\obj\Debug\FormUygulamasi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\FormUygulamasi\FormUygulamasi\obj\Debug\FormUygulamasi.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\FormUygulamasi\FormUygulamasi\obj\Debug\FormUygulamasi.exe
+C:\Users\Administrator\Desktop\NTP\FormUygulamasi\FormUygulamasi\obj\Debug\FormUygulamasi.pdb

@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe.config
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Form1.resources
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.exe
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.pdb

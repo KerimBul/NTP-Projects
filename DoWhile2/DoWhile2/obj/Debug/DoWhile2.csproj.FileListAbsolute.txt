@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\DoWhile2\DoWhile2\bin\Debug\DoWhile2.exe.config
+C:\Users\Administrator\Desktop\NTP\DoWhile2\DoWhile2\bin\Debug\DoWhile2.exe
+C:\Users\Administrator\Desktop\NTP\DoWhile2\DoWhile2\bin\Debug\DoWhile2.pdb
+C:\Users\Administrator\Desktop\NTP\DoWhile2\DoWhile2\obj\Debug\DoWhile2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\DoWhile2\DoWhile2\obj\Debug\DoWhile2.Form1.resources
+C:\Users\Administrator\Desktop\NTP\DoWhile2\DoWhile2\obj\Debug\DoWhile2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\DoWhile2\DoWhile2\obj\Debug\DoWhile2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\DoWhile2\DoWhile2\obj\Debug\DoWhile2.exe
+C:\Users\Administrator\Desktop\NTP\DoWhile2\DoWhile2\obj\Debug\DoWhile2.pdb

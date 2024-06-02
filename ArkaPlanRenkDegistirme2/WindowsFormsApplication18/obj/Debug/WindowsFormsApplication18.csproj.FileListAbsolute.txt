@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe.config
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.pdb
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Form1.resources
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.exe
+C:\Users\Administrator\Desktop\NTP\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.pdb

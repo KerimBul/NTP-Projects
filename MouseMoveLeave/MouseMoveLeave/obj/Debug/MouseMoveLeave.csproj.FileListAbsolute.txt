@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\MouseMoveLeave\MouseMoveLeave\bin\Debug\MouseMoveLeave.exe.config
+C:\Users\Administrator\Desktop\NTP\MouseMoveLeave\MouseMoveLeave\obj\Debug\MouseMoveLeave.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\MouseMoveLeave\MouseMoveLeave\obj\Debug\MouseMoveLeave.Form1.resources
+C:\Users\Administrator\Desktop\NTP\MouseMoveLeave\MouseMoveLeave\obj\Debug\MouseMoveLeave.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\MouseMoveLeave\MouseMoveLeave\obj\Debug\MouseMoveLeave.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\MouseMoveLeave\MouseMoveLeave\bin\Debug\MouseMoveLeave.exe
+C:\Users\Administrator\Desktop\NTP\MouseMoveLeave\MouseMoveLeave\bin\Debug\MouseMoveLeave.pdb
+C:\Users\Administrator\Desktop\NTP\MouseMoveLeave\MouseMoveLeave\obj\Debug\MouseMoveLeave.exe
+C:\Users\Administrator\Desktop\NTP\MouseMoveLeave\MouseMoveLeave\obj\Debug\MouseMoveLeave.pdb

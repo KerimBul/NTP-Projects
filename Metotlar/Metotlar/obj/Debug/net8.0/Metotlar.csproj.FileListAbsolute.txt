@@ -1,0 +1,15 @@
+C:\Users\evin7\Belgeler\Github\NTP-Class\Metotlar\Metotlar\bin\Debug\net8.0\Metotlar.exe
+C:\Users\evin7\Belgeler\Github\NTP-Class\Metotlar\Metotlar\bin\Debug\net8.0\Metotlar.deps.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\Metotlar\Metotlar\bin\Debug\net8.0\Metotlar.runtimeconfig.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\Metotlar\Metotlar\bin\Debug\net8.0\Metotlar.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\Metotlar\Metotlar\bin\Debug\net8.0\Metotlar.pdb
+C:\Users\evin7\Belgeler\Github\NTP-Class\Metotlar\Metotlar\obj\Debug\net8.0\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evin7\Belgeler\Github\NTP-Class\Metotlar\Metotlar\obj\Debug\net8.0\Metotlar.AssemblyInfoInputs.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\Metotlar\Metotlar\obj\Debug\net8.0\Metotlar.AssemblyInfo.cs
+C:\Users\evin7\Belgeler\Github\NTP-Class\Metotlar\Metotlar\obj\Debug\net8.0\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\Metotlar\Metotlar\obj\Debug\net8.0\Metotlar.sourcelink.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\Metotlar\Metotlar\obj\Debug\net8.0\Metotlar.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\Metotlar\Metotlar\obj\Debug\net8.0\refint\Metotlar.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\Metotlar\Metotlar\obj\Debug\net8.0\Metotlar.pdb
+C:\Users\evin7\Belgeler\Github\NTP-Class\Metotlar\Metotlar\obj\Debug\net8.0\Metotlar.genruntimeconfig.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\Metotlar\Metotlar\obj\Debug\net8.0\ref\Metotlar.dll

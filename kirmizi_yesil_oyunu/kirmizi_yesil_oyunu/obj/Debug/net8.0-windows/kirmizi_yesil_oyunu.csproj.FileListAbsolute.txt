@@ -1,0 +1,16 @@
+C:\Users\evin7\Belgeler\Github\kirmizi_yesil_oyunu\kirmizi_yesil_oyunu\bin\Debug\net8.0-windows\kirmizi_yesil_oyunu.exe
+C:\Users\evin7\Belgeler\Github\kirmizi_yesil_oyunu\kirmizi_yesil_oyunu\bin\Debug\net8.0-windows\kirmizi_yesil_oyunu.deps.json
+C:\Users\evin7\Belgeler\Github\kirmizi_yesil_oyunu\kirmizi_yesil_oyunu\bin\Debug\net8.0-windows\kirmizi_yesil_oyunu.runtimeconfig.json
+C:\Users\evin7\Belgeler\Github\kirmizi_yesil_oyunu\kirmizi_yesil_oyunu\bin\Debug\net8.0-windows\kirmizi_yesil_oyunu.dll
+C:\Users\evin7\Belgeler\Github\kirmizi_yesil_oyunu\kirmizi_yesil_oyunu\bin\Debug\net8.0-windows\kirmizi_yesil_oyunu.pdb
+C:\Users\evin7\Belgeler\Github\kirmizi_yesil_oyunu\kirmizi_yesil_oyunu\obj\Debug\net8.0-windows\kirmizi_yesil_oyunu.Form1.resources
+C:\Users\evin7\Belgeler\Github\kirmizi_yesil_oyunu\kirmizi_yesil_oyunu\obj\Debug\net8.0-windows\kirmizi_yesil_oyunu.csproj.GenerateResource.cache
+C:\Users\evin7\Belgeler\Github\kirmizi_yesil_oyunu\kirmizi_yesil_oyunu\obj\Debug\net8.0-windows\kirmizi_yesil_oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evin7\Belgeler\Github\kirmizi_yesil_oyunu\kirmizi_yesil_oyunu\obj\Debug\net8.0-windows\kirmizi_yesil_oyunu.AssemblyInfoInputs.cache
+C:\Users\evin7\Belgeler\Github\kirmizi_yesil_oyunu\kirmizi_yesil_oyunu\obj\Debug\net8.0-windows\kirmizi_yesil_oyunu.AssemblyInfo.cs
+C:\Users\evin7\Belgeler\Github\kirmizi_yesil_oyunu\kirmizi_yesil_oyunu\obj\Debug\net8.0-windows\kirmizi_yesil_oyunu.csproj.CoreCompileInputs.cache
+C:\Users\evin7\Belgeler\Github\kirmizi_yesil_oyunu\kirmizi_yesil_oyunu\obj\Debug\net8.0-windows\kirmizi_yesil_oyunu.dll
+C:\Users\evin7\Belgeler\Github\kirmizi_yesil_oyunu\kirmizi_yesil_oyunu\obj\Debug\net8.0-windows\refint\kirmizi_yesil_oyunu.dll
+C:\Users\evin7\Belgeler\Github\kirmizi_yesil_oyunu\kirmizi_yesil_oyunu\obj\Debug\net8.0-windows\kirmizi_yesil_oyunu.pdb
+C:\Users\evin7\Belgeler\Github\kirmizi_yesil_oyunu\kirmizi_yesil_oyunu\obj\Debug\net8.0-windows\kirmizi_yesil_oyunu.genruntimeconfig.cache
+C:\Users\evin7\Belgeler\Github\kirmizi_yesil_oyunu\kirmizi_yesil_oyunu\obj\Debug\net8.0-windows\ref\kirmizi_yesil_oyunu.dll

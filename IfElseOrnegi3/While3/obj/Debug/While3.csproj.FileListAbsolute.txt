@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\While3\While3\bin\Debug\While3.exe.config
+C:\Users\Administrator\Desktop\NTP\While3\While3\bin\Debug\While3.exe
+C:\Users\Administrator\Desktop\NTP\While3\While3\bin\Debug\While3.pdb
+C:\Users\Administrator\Desktop\NTP\While3\While3\obj\Debug\While3.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\While3\While3\obj\Debug\While3.Form1.resources
+C:\Users\Administrator\Desktop\NTP\While3\While3\obj\Debug\While3.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\While3\While3\obj\Debug\While3.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\While3\While3\obj\Debug\While3.exe
+C:\Users\Administrator\Desktop\NTP\While3\While3\obj\Debug\While3.pdb

@@ -1,0 +1,21 @@
+C:\Users\Administrator\Desktop\NTP\uygulama\uygulama\bin\Debug\uygulama.exe.config
+C:\Users\Administrator\Desktop\NTP\uygulama\uygulama\bin\Debug\uygulama.exe
+C:\Users\Administrator\Desktop\NTP\uygulama\uygulama\bin\Debug\uygulama.pdb
+C:\Users\Administrator\Desktop\NTP\uygulama\uygulama\obj\Debug\uygulama.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\uygulama\uygulama\obj\Debug\uygulama.Form1.resources
+C:\Users\Administrator\Desktop\NTP\uygulama\uygulama\obj\Debug\uygulama.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\uygulama\uygulama\obj\Debug\uygulama.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\uygulama\uygulama\obj\Debug\uygulama.exe
+C:\Users\Administrator\Desktop\NTP\uygulama\uygulama\obj\Debug\uygulama.pdb
+C:\Users\Administrator\Desktop\NTP\uygulama\uygulama\obj\Debug\uygulama.Form2.resources
+D:\ \NTP\uygulama\uygulama\bin\Debug\uygulama.exe.config
+D:\ \NTP\uygulama\uygulama\bin\Debug\uygulama.exe
+D:\ \NTP\uygulama\uygulama\bin\Debug\uygulama.pdb
+D:\ \NTP\uygulama\uygulama\obj\Debug\uygulama.csproj.AssemblyReference.cache
+D:\ \NTP\uygulama\uygulama\obj\Debug\uygulama.Form1.resources
+D:\ \NTP\uygulama\uygulama\obj\Debug\uygulama.Form2.resources
+D:\ \NTP\uygulama\uygulama\obj\Debug\uygulama.Properties.Resources.resources
+D:\ \NTP\uygulama\uygulama\obj\Debug\uygulama.csproj.GenerateResource.cache
+D:\ \NTP\uygulama\uygulama\obj\Debug\uygulama.csproj.CoreCompileInputs.cache
+D:\ \NTP\uygulama\uygulama\obj\Debug\uygulama.exe
+D:\ \NTP\uygulama\uygulama\obj\Debug\uygulama.pdb

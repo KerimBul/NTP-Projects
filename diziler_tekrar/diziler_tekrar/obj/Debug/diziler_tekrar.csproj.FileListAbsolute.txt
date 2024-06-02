@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\28Subat\diziler_tekrar\diziler_tekrar\bin\Debug\diziler_tekrar.exe.config
+C:\Users\Administrator\Desktop\NTP\28Subat\diziler_tekrar\diziler_tekrar\bin\Debug\diziler_tekrar.exe
+C:\Users\Administrator\Desktop\NTP\28Subat\diziler_tekrar\diziler_tekrar\bin\Debug\diziler_tekrar.pdb
+C:\Users\Administrator\Desktop\NTP\28Subat\diziler_tekrar\diziler_tekrar\obj\Debug\diziler_tekrar.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\28Subat\diziler_tekrar\diziler_tekrar\obj\Debug\diziler_tekrar.Form1.resources
+C:\Users\Administrator\Desktop\NTP\28Subat\diziler_tekrar\diziler_tekrar\obj\Debug\diziler_tekrar.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\28Subat\diziler_tekrar\diziler_tekrar\obj\Debug\diziler_tekrar.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\28Subat\diziler_tekrar\diziler_tekrar\obj\Debug\diziler_tekrar.exe
+C:\Users\Administrator\Desktop\NTP\28Subat\diziler_tekrar\diziler_tekrar\obj\Debug\diziler_tekrar.pdb

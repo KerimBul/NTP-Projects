@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_ozellikleri\dizi_ozellikleri\bin\Debug\dizi_ozellikleri.exe.config
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_ozellikleri\dizi_ozellikleri\bin\Debug\dizi_ozellikleri.exe
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_ozellikleri\dizi_ozellikleri\bin\Debug\dizi_ozellikleri.pdb
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_ozellikleri\dizi_ozellikleri\obj\Debug\dizi_ozellikleri.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_ozellikleri\dizi_ozellikleri\obj\Debug\dizi_ozellikleri.Form1.resources
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_ozellikleri\dizi_ozellikleri\obj\Debug\dizi_ozellikleri.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_ozellikleri\dizi_ozellikleri\obj\Debug\dizi_ozellikleri.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_ozellikleri\dizi_ozellikleri\obj\Debug\dizi_ozellikleri.exe
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_ozellikleri\dizi_ozellikleri\obj\Debug\dizi_ozellikleri.pdb

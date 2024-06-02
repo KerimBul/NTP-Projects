@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\karsılastırma\karsılastırma\bin\Debug\karsılastırma.exe.config
+C:\Users\Administrator\Desktop\NTP\karsılastırma\karsılastırma\bin\Debug\karsılastırma.exe
+C:\Users\Administrator\Desktop\NTP\karsılastırma\karsılastırma\bin\Debug\karsılastırma.pdb
+C:\Users\Administrator\Desktop\NTP\karsılastırma\karsılastırma\obj\Debug\karsılastırma.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\karsılastırma\karsılastırma\obj\Debug\karsılastırma.Form1.resources
+C:\Users\Administrator\Desktop\NTP\karsılastırma\karsılastırma\obj\Debug\karsılastırma.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\karsılastırma\karsılastırma\obj\Debug\karsılastırma.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\karsılastırma\karsılastırma\obj\Debug\karsılastırma.exe
+C:\Users\Administrator\Desktop\NTP\karsılastırma\karsılastırma\obj\Debug\karsılastırma.pdb

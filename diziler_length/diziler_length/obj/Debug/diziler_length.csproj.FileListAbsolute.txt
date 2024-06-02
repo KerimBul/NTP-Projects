@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\diziler_length\diziler_length\bin\Debug\diziler_length.exe.config
+C:\Users\Administrator\Desktop\NTP\diziler_length\diziler_length\bin\Debug\diziler_length.exe
+C:\Users\Administrator\Desktop\NTP\diziler_length\diziler_length\bin\Debug\diziler_length.pdb
+C:\Users\Administrator\Desktop\NTP\diziler_length\diziler_length\obj\Debug\diziler_length.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\diziler_length\diziler_length\obj\Debug\diziler_length.Form1.resources
+C:\Users\Administrator\Desktop\NTP\diziler_length\diziler_length\obj\Debug\diziler_length.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\diziler_length\diziler_length\obj\Debug\diziler_length.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\diziler_length\diziler_length\obj\Debug\diziler_length.exe
+C:\Users\Administrator\Desktop\NTP\diziler_length\diziler_length\obj\Debug\diziler_length.pdb

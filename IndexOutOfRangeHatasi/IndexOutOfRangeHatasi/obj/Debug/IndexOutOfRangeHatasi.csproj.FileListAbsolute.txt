@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\28Subat\IndexOutOfRangeHatasi\IndexOutOfRangeHatasi\bin\Debug\IndexOutOfRangeHatasi.exe.config
+C:\Users\Administrator\Desktop\NTP\28Subat\IndexOutOfRangeHatasi\IndexOutOfRangeHatasi\bin\Debug\IndexOutOfRangeHatasi.exe
+C:\Users\Administrator\Desktop\NTP\28Subat\IndexOutOfRangeHatasi\IndexOutOfRangeHatasi\bin\Debug\IndexOutOfRangeHatasi.pdb
+C:\Users\Administrator\Desktop\NTP\28Subat\IndexOutOfRangeHatasi\IndexOutOfRangeHatasi\obj\Debug\IndexOutOfRangeHatasi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\28Subat\IndexOutOfRangeHatasi\IndexOutOfRangeHatasi\obj\Debug\IndexOutOfRangeHatasi.Form1.resources
+C:\Users\Administrator\Desktop\NTP\28Subat\IndexOutOfRangeHatasi\IndexOutOfRangeHatasi\obj\Debug\IndexOutOfRangeHatasi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\28Subat\IndexOutOfRangeHatasi\IndexOutOfRangeHatasi\obj\Debug\IndexOutOfRangeHatasi.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\28Subat\IndexOutOfRangeHatasi\IndexOutOfRangeHatasi\obj\Debug\IndexOutOfRangeHatasi.exe
+C:\Users\Administrator\Desktop\NTP\28Subat\IndexOutOfRangeHatasi\IndexOutOfRangeHatasi\obj\Debug\IndexOutOfRangeHatasi.pdb

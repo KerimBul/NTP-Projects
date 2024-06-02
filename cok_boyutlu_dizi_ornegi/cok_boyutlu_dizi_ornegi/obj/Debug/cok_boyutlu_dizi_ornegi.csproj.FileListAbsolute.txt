@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\mart6\cok_boyutlu_dizi_ornegi\cok_boyutlu_dizi_ornegi\bin\Debug\cok_boyutlu_dizi_ornegi.exe.config
+C:\Users\Administrator\Desktop\NTP\mart6\cok_boyutlu_dizi_ornegi\cok_boyutlu_dizi_ornegi\bin\Debug\cok_boyutlu_dizi_ornegi.exe
+C:\Users\Administrator\Desktop\NTP\mart6\cok_boyutlu_dizi_ornegi\cok_boyutlu_dizi_ornegi\bin\Debug\cok_boyutlu_dizi_ornegi.pdb
+C:\Users\Administrator\Desktop\NTP\mart6\cok_boyutlu_dizi_ornegi\cok_boyutlu_dizi_ornegi\obj\Debug\cok_boyutlu_dizi_ornegi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\mart6\cok_boyutlu_dizi_ornegi\cok_boyutlu_dizi_ornegi\obj\Debug\cok_boyutlu_dizi_ornegi.Form1.resources
+C:\Users\Administrator\Desktop\NTP\mart6\cok_boyutlu_dizi_ornegi\cok_boyutlu_dizi_ornegi\obj\Debug\cok_boyutlu_dizi_ornegi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\mart6\cok_boyutlu_dizi_ornegi\cok_boyutlu_dizi_ornegi\obj\Debug\cok_boyutlu_dizi_ornegi.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\mart6\cok_boyutlu_dizi_ornegi\cok_boyutlu_dizi_ornegi\obj\Debug\cok_boyutlu_dizi_ornegi.exe
+C:\Users\Administrator\Desktop\NTP\mart6\cok_boyutlu_dizi_ornegi\cok_boyutlu_dizi_ornegi\obj\Debug\cok_boyutlu_dizi_ornegi.pdb

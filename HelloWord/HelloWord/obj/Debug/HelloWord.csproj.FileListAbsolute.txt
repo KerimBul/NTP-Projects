@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\HelloWord\HelloWord\bin\Debug\HelloWord.exe.config
+C:\Users\Administrator\Desktop\NTP\HelloWord\HelloWord\bin\Debug\HelloWord.exe
+C:\Users\Administrator\Desktop\NTP\HelloWord\HelloWord\bin\Debug\HelloWord.pdb
+C:\Users\Administrator\Desktop\NTP\HelloWord\HelloWord\obj\Debug\HelloWord.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\HelloWord\HelloWord\obj\Debug\HelloWord.Form1.resources
+C:\Users\Administrator\Desktop\NTP\HelloWord\HelloWord\obj\Debug\HelloWord.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\HelloWord\HelloWord\obj\Debug\HelloWord.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\HelloWord\HelloWord\obj\Debug\HelloWord.exe
+C:\Users\Administrator\Desktop\NTP\HelloWord\HelloWord\obj\Debug\HelloWord.pdb

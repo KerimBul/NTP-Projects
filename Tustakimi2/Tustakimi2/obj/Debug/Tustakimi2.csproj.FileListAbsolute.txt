@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\Tustakimi2\Tustakimi2\bin\Debug\Tustakimi2.exe.config
+C:\Users\Administrator\Desktop\NTP\Tustakimi2\Tustakimi2\bin\Debug\Tustakimi2.exe
+C:\Users\Administrator\Desktop\NTP\Tustakimi2\Tustakimi2\bin\Debug\Tustakimi2.pdb
+C:\Users\Administrator\Desktop\NTP\Tustakimi2\Tustakimi2\obj\Debug\Tustakimi2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\Tustakimi2\Tustakimi2\obj\Debug\Tustakimi2.Form1.resources
+C:\Users\Administrator\Desktop\NTP\Tustakimi2\Tustakimi2\obj\Debug\Tustakimi2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\Tustakimi2\Tustakimi2\obj\Debug\Tustakimi2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\Tustakimi2\Tustakimi2\obj\Debug\Tustakimi2.exe
+C:\Users\Administrator\Desktop\NTP\Tustakimi2\Tustakimi2\obj\Debug\Tustakimi2.pdb

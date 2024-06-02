@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_for_listbox_ornegi\dizi_for_listbox_ornegi\bin\Debug\dizi_for_listbox_ornegi.exe.config
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_for_listbox_ornegi\dizi_for_listbox_ornegi\bin\Debug\dizi_for_listbox_ornegi.exe
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_for_listbox_ornegi\dizi_for_listbox_ornegi\bin\Debug\dizi_for_listbox_ornegi.pdb
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_for_listbox_ornegi\dizi_for_listbox_ornegi\obj\Debug\dizi_for_listbox_ornegi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_for_listbox_ornegi\dizi_for_listbox_ornegi\obj\Debug\dizi_for_listbox_ornegi.Form1.resources
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_for_listbox_ornegi\dizi_for_listbox_ornegi\obj\Debug\dizi_for_listbox_ornegi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_for_listbox_ornegi\dizi_for_listbox_ornegi\obj\Debug\dizi_for_listbox_ornegi.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_for_listbox_ornegi\dizi_for_listbox_ornegi\obj\Debug\dizi_for_listbox_ornegi.exe
+C:\Users\Administrator\Desktop\NTP\mart6\dizi_for_listbox_ornegi\dizi_for_listbox_ornegi\obj\Debug\dizi_for_listbox_ornegi.pdb

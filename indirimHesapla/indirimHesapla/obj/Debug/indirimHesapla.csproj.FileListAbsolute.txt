@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\indirimHesapla\indirimHesapla\bin\Debug\indirimHesapla.exe.config
+C:\Users\Administrator\Desktop\NTP\indirimHesapla\indirimHesapla\bin\Debug\indirimHesapla.exe
+C:\Users\Administrator\Desktop\NTP\indirimHesapla\indirimHesapla\bin\Debug\indirimHesapla.pdb
+C:\Users\Administrator\Desktop\NTP\indirimHesapla\indirimHesapla\obj\Debug\indirimHesapla.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\indirimHesapla\indirimHesapla\obj\Debug\indirimHesapla.Form1.resources
+C:\Users\Administrator\Desktop\NTP\indirimHesapla\indirimHesapla\obj\Debug\indirimHesapla.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\indirimHesapla\indirimHesapla\obj\Debug\indirimHesapla.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\indirimHesapla\indirimHesapla\obj\Debug\indirimHesapla.exe
+C:\Users\Administrator\Desktop\NTP\indirimHesapla\indirimHesapla\obj\Debug\indirimHesapla.pdb

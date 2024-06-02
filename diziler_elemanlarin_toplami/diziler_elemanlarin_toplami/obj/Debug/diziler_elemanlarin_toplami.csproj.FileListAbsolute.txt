@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\diziler_elemanlarin_toplami\diziler_elemanlarin_toplami\bin\Debug\diziler_elemanlarin_toplami.exe.config
+C:\Users\Administrator\Desktop\NTP\diziler_elemanlarin_toplami\diziler_elemanlarin_toplami\bin\Debug\diziler_elemanlarin_toplami.exe
+C:\Users\Administrator\Desktop\NTP\diziler_elemanlarin_toplami\diziler_elemanlarin_toplami\bin\Debug\diziler_elemanlarin_toplami.pdb
+C:\Users\Administrator\Desktop\NTP\diziler_elemanlarin_toplami\diziler_elemanlarin_toplami\obj\Debug\diziler_elemanlarin_toplami.Form1.resources
+C:\Users\Administrator\Desktop\NTP\diziler_elemanlarin_toplami\diziler_elemanlarin_toplami\obj\Debug\diziler_elemanlarin_toplami.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\diziler_elemanlarin_toplami\diziler_elemanlarin_toplami\obj\Debug\diziler_elemanlarin_toplami.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\diziler_elemanlarin_toplami\diziler_elemanlarin_toplami\obj\Debug\diziler_elemanlarin_toplami.exe
+C:\Users\Administrator\Desktop\NTP\diziler_elemanlarin_toplami\diziler_elemanlarin_toplami\obj\Debug\diziler_elemanlarin_toplami.pdb
+C:\Users\Administrator\Desktop\NTP\diziler_elemanlarin_toplami\diziler_elemanlarin_toplami\obj\Debug\diziler_elemanlarin_toplami.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe.config
+C:\Users\Administrator\Desktop\NTP\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe
+C:\Users\Administrator\Desktop\NTP\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.pdb
+C:\Users\Administrator\Desktop\NTP\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.Form1.resources
+C:\Users\Administrator\Desktop\NTP\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.exe
+C:\Users\Administrator\Desktop\NTP\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.pdb

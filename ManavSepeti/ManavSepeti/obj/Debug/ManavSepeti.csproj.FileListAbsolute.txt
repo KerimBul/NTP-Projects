@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\ManavSepeti\ManavSepeti\bin\Debug\ManavSepeti.exe.config
+C:\Users\Administrator\Desktop\NTP\ManavSepeti\ManavSepeti\bin\Debug\ManavSepeti.exe
+C:\Users\Administrator\Desktop\NTP\ManavSepeti\ManavSepeti\bin\Debug\ManavSepeti.pdb
+C:\Users\Administrator\Desktop\NTP\ManavSepeti\ManavSepeti\obj\Debug\ManavSepeti.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\ManavSepeti\ManavSepeti\obj\Debug\ManavSepeti.Form1.resources
+C:\Users\Administrator\Desktop\NTP\ManavSepeti\ManavSepeti\obj\Debug\ManavSepeti.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\ManavSepeti\ManavSepeti\obj\Debug\ManavSepeti.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\ManavSepeti\ManavSepeti\obj\Debug\ManavSepeti.exe
+C:\Users\Administrator\Desktop\NTP\ManavSepeti\ManavSepeti\obj\Debug\ManavSepeti.pdb

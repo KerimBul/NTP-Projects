@@ -1,0 +1,17 @@
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_sesli_harf_sayisi_uygulamasi\diziler_sesli_harf_sayisi_uygulamasi\bin\Debug\net8.0-windows\diziler_sesli_harf_sayisi_uygulamasi.exe
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_sesli_harf_sayisi_uygulamasi\diziler_sesli_harf_sayisi_uygulamasi\bin\Debug\net8.0-windows\diziler_sesli_harf_sayisi_uygulamasi.deps.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_sesli_harf_sayisi_uygulamasi\diziler_sesli_harf_sayisi_uygulamasi\bin\Debug\net8.0-windows\diziler_sesli_harf_sayisi_uygulamasi.runtimeconfig.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_sesli_harf_sayisi_uygulamasi\diziler_sesli_harf_sayisi_uygulamasi\bin\Debug\net8.0-windows\diziler_sesli_harf_sayisi_uygulamasi.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_sesli_harf_sayisi_uygulamasi\diziler_sesli_harf_sayisi_uygulamasi\bin\Debug\net8.0-windows\diziler_sesli_harf_sayisi_uygulamasi.pdb
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_sesli_harf_sayisi_uygulamasi\diziler_sesli_harf_sayisi_uygulamasi\obj\Debug\net8.0-windows\diziler_sesli_harf_sayisi_uygulamasi.Form1.resources
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_sesli_harf_sayisi_uygulamasi\diziler_sesli_harf_sayisi_uygulamasi\obj\Debug\net8.0-windows\diziler_sesli_harf_sayisi_uygulamasi.csproj.GenerateResource.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_sesli_harf_sayisi_uygulamasi\diziler_sesli_harf_sayisi_uygulamasi\obj\Debug\net8.0-windows\diziler_sesli_harf_sayisi_uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_sesli_harf_sayisi_uygulamasi\diziler_sesli_harf_sayisi_uygulamasi\obj\Debug\net8.0-windows\diziler_sesli_harf_sayisi_uygulamasi.AssemblyInfoInputs.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_sesli_harf_sayisi_uygulamasi\diziler_sesli_harf_sayisi_uygulamasi\obj\Debug\net8.0-windows\diziler_sesli_harf_sayisi_uygulamasi.AssemblyInfo.cs
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_sesli_harf_sayisi_uygulamasi\diziler_sesli_harf_sayisi_uygulamasi\obj\Debug\net8.0-windows\diziler_sesli_harf_sayisi_uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_sesli_harf_sayisi_uygulamasi\diziler_sesli_harf_sayisi_uygulamasi\obj\Debug\net8.0-windows\diziler_sesli_harf_sayisi_uygulamasi.sourcelink.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_sesli_harf_sayisi_uygulamasi\diziler_sesli_harf_sayisi_uygulamasi\obj\Debug\net8.0-windows\diziler_sesli_harf_sayisi_uygulamasi.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_sesli_harf_sayisi_uygulamasi\diziler_sesli_harf_sayisi_uygulamasi\obj\Debug\net8.0-windows\refint\diziler_sesli_harf_sayisi_uygulamasi.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_sesli_harf_sayisi_uygulamasi\diziler_sesli_harf_sayisi_uygulamasi\obj\Debug\net8.0-windows\diziler_sesli_harf_sayisi_uygulamasi.pdb
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_sesli_harf_sayisi_uygulamasi\diziler_sesli_harf_sayisi_uygulamasi\obj\Debug\net8.0-windows\diziler_sesli_harf_sayisi_uygulamasi.genruntimeconfig.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\diziler_sesli_harf_sayisi_uygulamasi\diziler_sesli_harf_sayisi_uygulamasi\obj\Debug\net8.0-windows\ref\diziler_sesli_harf_sayisi_uygulamasi.dll

@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\NTP\Metot_ile_Buyuk_Sayi_Bulma\Metot_ile_Buyuk_Sayi_Bulma\bin\Debug\Metot_ile_Buyuk_Sayi_Bulma.exe.config
+C:\Users\Administrator\Desktop\NTP\Metot_ile_Buyuk_Sayi_Bulma\Metot_ile_Buyuk_Sayi_Bulma\bin\Debug\Metot_ile_Buyuk_Sayi_Bulma.exe
+C:\Users\Administrator\Desktop\NTP\Metot_ile_Buyuk_Sayi_Bulma\Metot_ile_Buyuk_Sayi_Bulma\bin\Debug\Metot_ile_Buyuk_Sayi_Bulma.pdb
+C:\Users\Administrator\Desktop\NTP\Metot_ile_Buyuk_Sayi_Bulma\Metot_ile_Buyuk_Sayi_Bulma\obj\Debug\Metot_ile_Buyuk_Sayi_Bulma.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\Metot_ile_Buyuk_Sayi_Bulma\Metot_ile_Buyuk_Sayi_Bulma\obj\Debug\Metot_ile_Buyuk_Sayi_Bulma.exe
+C:\Users\Administrator\Desktop\NTP\Metot_ile_Buyuk_Sayi_Bulma\Metot_ile_Buyuk_Sayi_Bulma\obj\Debug\Metot_ile_Buyuk_Sayi_Bulma.pdb

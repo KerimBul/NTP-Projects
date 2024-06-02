@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "kirmizi_yesil_oyunu/1.0.0": {
+        "runtime": {
+          "kirmizi_yesil_oyunu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kirmizi_yesil_oyunu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

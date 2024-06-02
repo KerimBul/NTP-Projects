@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\TusTakimi\TusTakimi\bin\Debug\TusTakimi.exe.config
+C:\Users\Administrator\Desktop\NTP\TusTakimi\TusTakimi\bin\Debug\TusTakimi.exe
+C:\Users\Administrator\Desktop\NTP\TusTakimi\TusTakimi\bin\Debug\TusTakimi.pdb
+C:\Users\Administrator\Desktop\NTP\TusTakimi\TusTakimi\obj\Debug\TusTakimi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\TusTakimi\TusTakimi\obj\Debug\TusTakimi.Form1.resources
+C:\Users\Administrator\Desktop\NTP\TusTakimi\TusTakimi\obj\Debug\TusTakimi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\TusTakimi\TusTakimi\obj\Debug\TusTakimi.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\TusTakimi\TusTakimi\obj\Debug\TusTakimi.exe
+C:\Users\Administrator\Desktop\NTP\TusTakimi\TusTakimi\obj\Debug\TusTakimi.pdb

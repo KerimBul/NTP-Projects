@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\diziler_taktir_tesekkur\diziler_taktir_tesekkur\bin\Debug\diziler_taktir_tesekkur.exe.config
+C:\Users\Administrator\Desktop\NTP\diziler_taktir_tesekkur\diziler_taktir_tesekkur\bin\Debug\diziler_taktir_tesekkur.exe
+C:\Users\Administrator\Desktop\NTP\diziler_taktir_tesekkur\diziler_taktir_tesekkur\bin\Debug\diziler_taktir_tesekkur.pdb
+C:\Users\Administrator\Desktop\NTP\diziler_taktir_tesekkur\diziler_taktir_tesekkur\obj\Debug\diziler_taktir_tesekkur.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\diziler_taktir_tesekkur\diziler_taktir_tesekkur\obj\Debug\diziler_taktir_tesekkur.Form1.resources
+C:\Users\Administrator\Desktop\NTP\diziler_taktir_tesekkur\diziler_taktir_tesekkur\obj\Debug\diziler_taktir_tesekkur.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\diziler_taktir_tesekkur\diziler_taktir_tesekkur\obj\Debug\diziler_taktir_tesekkur.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\diziler_taktir_tesekkur\diziler_taktir_tesekkur\obj\Debug\diziler_taktir_tesekkur.exe
+C:\Users\Administrator\Desktop\NTP\diziler_taktir_tesekkur\diziler_taktir_tesekkur\obj\Debug\diziler_taktir_tesekkur.pdb

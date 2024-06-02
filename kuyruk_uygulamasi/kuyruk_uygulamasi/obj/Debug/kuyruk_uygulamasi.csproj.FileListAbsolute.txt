@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\NTP\kuyruk_uygulamasi\kuyruk_uygulamasi\bin\Debug\kuyruk_uygulamasi.exe.config
+C:\Users\Administrator\Desktop\NTP\kuyruk_uygulamasi\kuyruk_uygulamasi\bin\Debug\kuyruk_uygulamasi.exe
+C:\Users\Administrator\Desktop\NTP\kuyruk_uygulamasi\kuyruk_uygulamasi\bin\Debug\kuyruk_uygulamasi.pdb
+C:\Users\Administrator\Desktop\NTP\kuyruk_uygulamasi\kuyruk_uygulamasi\obj\Debug\kuyruk_uygulamasi.Form1.resources
+C:\Users\Administrator\Desktop\NTP\kuyruk_uygulamasi\kuyruk_uygulamasi\obj\Debug\kuyruk_uygulamasi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NTP\kuyruk_uygulamasi\kuyruk_uygulamasi\obj\Debug\kuyruk_uygulamasi.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NTP\kuyruk_uygulamasi\kuyruk_uygulamasi\obj\Debug\kuyruk_uygulamasi.exe
+C:\Users\Administrator\Desktop\NTP\kuyruk_uygulamasi\kuyruk_uygulamasi\obj\Debug\kuyruk_uygulamasi.pdb
+C:\Users\Administrator\Desktop\NTP\kuyruk_uygulamasi\kuyruk_uygulamasi\obj\Debug\kuyruk_uygulamasi.csprojResolveAssemblyReference.cache

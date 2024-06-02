@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dizi_sesli_harf_sayisini_bulma", "dizi_sesli_harf_sayisini_bulma\dizi_sesli_harf_sayisini_bulma.csproj", "{B3F914A2-66FA-4F0B-98D4-F5F771EED04B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3F914A2-66FA-4F0B-98D4-F5F771EED04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F914A2-66FA-4F0B-98D4-F5F771EED04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F914A2-66FA-4F0B-98D4-F5F771EED04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F914A2-66FA-4F0B-98D4-F5F771EED04B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

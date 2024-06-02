@@ -1,0 +1,15 @@
+C:\Users\evin7\Belgeler\Github\NTP-Class\Classes\Classes\bin\Debug\net8.0\Classes.exe
+C:\Users\evin7\Belgeler\Github\NTP-Class\Classes\Classes\bin\Debug\net8.0\Classes.deps.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\Classes\Classes\bin\Debug\net8.0\Classes.runtimeconfig.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\Classes\Classes\bin\Debug\net8.0\Classes.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\Classes\Classes\bin\Debug\net8.0\Classes.pdb
+C:\Users\evin7\Belgeler\Github\NTP-Class\Classes\Classes\obj\Debug\net8.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evin7\Belgeler\Github\NTP-Class\Classes\Classes\obj\Debug\net8.0\Classes.AssemblyInfoInputs.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\Classes\Classes\obj\Debug\net8.0\Classes.AssemblyInfo.cs
+C:\Users\evin7\Belgeler\Github\NTP-Class\Classes\Classes\obj\Debug\net8.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\Classes\Classes\obj\Debug\net8.0\Classes.sourcelink.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\Classes\Classes\obj\Debug\net8.0\Classes.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\Classes\Classes\obj\Debug\net8.0\refint\Classes.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\Classes\Classes\obj\Debug\net8.0\Classes.pdb
+C:\Users\evin7\Belgeler\Github\NTP-Class\Classes\Classes\obj\Debug\net8.0\Classes.genruntimeconfig.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\Classes\Classes\obj\Debug\net8.0\ref\Classes.dll

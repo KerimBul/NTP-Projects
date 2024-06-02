@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\NTP\Bugun\InterfaceLoglamaOrnegi\InterfaceLoglamaOrnegi\bin\Debug\InterfaceLoglamaOrnegi.exe.config
+C:\Users\Administrator\Desktop\NTP\Bugun\InterfaceLoglamaOrnegi\InterfaceLoglamaOrnegi\bin\Debug\InterfaceLoglamaOrnegi.exe
+C:\Users\Administrator\Desktop\NTP\Bugun\InterfaceLoglamaOrnegi\InterfaceLoglamaOrnegi\bin\Debug\InterfaceLoglamaOrnegi.pdb
+C:\Users\Administrator\Desktop\NTP\Bugun\InterfaceLoglamaOrnegi\InterfaceLoglamaOrnegi\obj\Debug\InterfaceLoglamaOrnegi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NTP\Bugun\InterfaceLoglamaOrnegi\InterfaceLoglamaOrnegi\obj\Debug\InterfaceLoglamaOrnegi.exe
+C:\Users\Administrator\Desktop\NTP\Bugun\InterfaceLoglamaOrnegi\InterfaceLoglamaOrnegi\obj\Debug\InterfaceLoglamaOrnegi.pdb

@@ -1,0 +1,17 @@
+C:\Users\evin7\Belgeler\Github\NTP-Class\dizi_ile_dama_tahtasi\dizi_ile_dama_tahtasi\bin\Debug\net8.0-windows\dizi_ile_dama_tahtasi.exe
+C:\Users\evin7\Belgeler\Github\NTP-Class\dizi_ile_dama_tahtasi\dizi_ile_dama_tahtasi\bin\Debug\net8.0-windows\dizi_ile_dama_tahtasi.deps.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\dizi_ile_dama_tahtasi\dizi_ile_dama_tahtasi\bin\Debug\net8.0-windows\dizi_ile_dama_tahtasi.runtimeconfig.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\dizi_ile_dama_tahtasi\dizi_ile_dama_tahtasi\bin\Debug\net8.0-windows\dizi_ile_dama_tahtasi.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\dizi_ile_dama_tahtasi\dizi_ile_dama_tahtasi\bin\Debug\net8.0-windows\dizi_ile_dama_tahtasi.pdb
+C:\Users\evin7\Belgeler\Github\NTP-Class\dizi_ile_dama_tahtasi\dizi_ile_dama_tahtasi\obj\Debug\net8.0-windows\dizi_ile_dama_tahtasi.Form1.resources
+C:\Users\evin7\Belgeler\Github\NTP-Class\dizi_ile_dama_tahtasi\dizi_ile_dama_tahtasi\obj\Debug\net8.0-windows\dizi_ile_dama_tahtasi.csproj.GenerateResource.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\dizi_ile_dama_tahtasi\dizi_ile_dama_tahtasi\obj\Debug\net8.0-windows\dizi_ile_dama_tahtasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evin7\Belgeler\Github\NTP-Class\dizi_ile_dama_tahtasi\dizi_ile_dama_tahtasi\obj\Debug\net8.0-windows\dizi_ile_dama_tahtasi.AssemblyInfoInputs.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\dizi_ile_dama_tahtasi\dizi_ile_dama_tahtasi\obj\Debug\net8.0-windows\dizi_ile_dama_tahtasi.AssemblyInfo.cs
+C:\Users\evin7\Belgeler\Github\NTP-Class\dizi_ile_dama_tahtasi\dizi_ile_dama_tahtasi\obj\Debug\net8.0-windows\dizi_ile_dama_tahtasi.csproj.CoreCompileInputs.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\dizi_ile_dama_tahtasi\dizi_ile_dama_tahtasi\obj\Debug\net8.0-windows\dizi_ile_dama_tahtasi.sourcelink.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\dizi_ile_dama_tahtasi\dizi_ile_dama_tahtasi\obj\Debug\net8.0-windows\dizi_ile_dama_tahtasi.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\dizi_ile_dama_tahtasi\dizi_ile_dama_tahtasi\obj\Debug\net8.0-windows\refint\dizi_ile_dama_tahtasi.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\dizi_ile_dama_tahtasi\dizi_ile_dama_tahtasi\obj\Debug\net8.0-windows\dizi_ile_dama_tahtasi.pdb
+C:\Users\evin7\Belgeler\Github\NTP-Class\dizi_ile_dama_tahtasi\dizi_ile_dama_tahtasi\obj\Debug\net8.0-windows\dizi_ile_dama_tahtasi.genruntimeconfig.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\dizi_ile_dama_tahtasi\dizi_ile_dama_tahtasi\obj\Debug\net8.0-windows\ref\dizi_ile_dama_tahtasi.dll
